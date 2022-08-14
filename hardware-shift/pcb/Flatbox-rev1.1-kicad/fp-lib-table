@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Kailh")(type "KiCad")(uri "${KIPRJMOD}/Kailh.pretty")(options "")(descr ""))
+  (lib (name "ProMicro")(type "KiCad")(uri "${KIPRJMOD}/promicro.pretty")(options "")(descr ""))
+)
