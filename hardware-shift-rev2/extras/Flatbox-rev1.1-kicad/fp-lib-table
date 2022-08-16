@@ -1,4 +1,11 @@
 (fp_lib_table
-  (lib (name Kailh)(type KiCad)(uri ${KIPRJMOD}/Kailh.pretty)(options "")(descr ""))
-  (lib (name ProMicro)(type KiCad)(uri ${KIPRJMOD}/promicro.pretty)(options "")(descr ""))
+  (lib (name "Kailh")(type "KiCad")(uri "${KIPRJMOD}/Kailh.pretty")(options "")(descr ""))
+  (lib (name "ProMicro")(type "KiCad")(uri "${KIPRJMOD}/promicro.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Alps_Matias")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Switch_Keyboard_Alps_Matias.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Switch_Keyboard_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "3d-library")(type "KiCad")(uri "${KIPRJMOD}/library/3dmodels/3d-library.3dshapes")(options "")(descr ""))
 )
