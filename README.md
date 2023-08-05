@@ -68,6 +68,15 @@ We borrowed a friend's uncle's CNC machine, and started carving the design out o
 ![stickers2](result/IMG_2855.jpg)
 ![stickers3](result/IMG_0810.jpg)
 
+## Parts List
+* arcade MX buttons - https://www.ebay.com/itm/165134564232 (url is now https://www.ebay.com/itm/155628299989)
+* Chicago Screws - https://www.ebay.com/itm/0-67-034-to-0-87-034-17mm-to-22-mm-x-5mm-Stainless-steel-Knife-Handle-chicago-Screw-/231976520482?ssPageName=STRK:MESE:IT
+* MX Switches
+* Gateron hotswaps
+* mini buttons
+* Arduino pro micro with usb c
+* Acrylic Layers (laser cut, or CNCed)
+
 ## Useful guides
 - https://github.com/b1nc/Egg-On-Rice-Controller
 - https://www.youtube.com/watch?v=ia2n7P3Csac
