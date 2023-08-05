@@ -1,5 +1,5 @@
-# Flatbox: Low profile hitbox-layout fightstick
-## This is a fork, where the PCB was modified to have a shift along with the directional inputs, and use hotswappable fullsize MX key switches
+# Hotbox: Low profile hitbox-layout fightstick
+## This is a fork of Flatbox, where the PCB was modified to have a shift along with the directional inputs, and use hotswappable fullsize MX key switches
 
 This repository contains 3D-printable models, PCB design files and code needed to make an arcade controller that looks like this:
 
