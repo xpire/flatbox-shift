@@ -3,9 +3,10 @@
 
 This repository contains 3D-printable models, PCB design files and code needed to make an arcade controller that looks like this:
 
-![Assembled Flatbox](hardware-rev2/images/Flatbox-rev2b-finished-product.jpg)
+![Assembled Flatbox Shift](result/IMG_0810.jpg)
+Look at the table for the difference between each revision.
 
-Look at the table for the differences
+Reddit post: https://www.reddit.com/r/fightsticks/comments/y1vh9n/my_custom_fight_stick_made_with_a_custom_pcb_7/
 
 version | [rev1.1](hardware-rev1.1) | [rev2](hardware-rev2) | [rev3](hardware-rev3) | [rev4](hardware-rev4) | [shift](hardware-shift-rev2)
 ------- | ------------------------- | --------------------- | --------------------- | --------------------- | ----
@@ -20,6 +21,52 @@ shift key | no | no | no | no | ***yes!***
 key switches | low profile | low profile | low profile | low profile | ***normal MX***
 hot swappable | yes | yes | yes | yes | yes
 solder-able | yes | yes | yes | yes | no
+
+# Process
+
+## Design and Planning
+
+First, we used Kicad to edit this existing PCB layout, adding an extra button for shift and swapping out the low profile gaterons for full sized MX hotswap.
+
+![PCB Render](render/bare_board_render.png)
+
+We then designed acrylic layers to encase the PCB, and mocked it in blender to see if it would work out.
+
+![Acrylic Layers Render](render/render_with_layers.png)
+
+## Prototyping
+
+We printed the boards with https://jlcpcb.com/
+
+![PCB IRL](process/IMG_2579.jpg)
+
+We soldered on the arduino, and tested that the inputs worked
+
+![first test](process/IMG_2577.JPG)
+
+Once we had verified the board worked, we 3D printed the layers to simulate what the final product would look like.
+
+![3d printed](process/IMG_2585.jpg)
+
+![3d printed 2](process/IMG_2587.jpg)
+
+## Fabrication
+
+We borrowed a friend's uncle's CNC machine, and started carving the design out of sheets of acrylic.
+
+![CNC 1](process/IMG_5433.jpg)
+
+![CNC 2](process/PXL_20221002_083123686.jpg)
+
+## Result
+
+![front](result/IMG_2683.jpg)
+![Back](result/IMG_2685.jpg)
+![side](result/IMG_2687.jpg)
+![back2](result/IMG_0805.jpg)
+![stickers1](result/IMG_2853.jpg)
+![stickers2](result/IMG_2855.jpg)
+![stickers3](result/IMG_0810.jpg)
 
 ## Useful guides
 - https://github.com/b1nc/Egg-On-Rice-Controller
